@@ -1,0 +1,6 @@
+*.user
+
+/packages
+/.vs
+Angular.js.Tour.Of.Heroes.Web/bin
+Angular.js.Tour.Of.Heroes.Web/obj
